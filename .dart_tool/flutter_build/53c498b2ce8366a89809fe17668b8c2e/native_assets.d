@@ -1,0 +1,1 @@
+ C:\\Users\\shake\\OneDrive\\Desktop\\Dbeeta\\Learnpro_frontend\\.dart_tool\\flutter_build\\53c498b2ce8366a89809fe17668b8c2e\\native_assets.yaml: 
